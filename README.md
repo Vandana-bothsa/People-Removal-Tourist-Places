@@ -71,3 +71,16 @@ extended to video processing and real-time applications.
 ## Author
 Vandana Bothsa  
 B.Tech – Computer Science and Engineering
+
+---
+
+## Input and Output Examples
+
+### Input Image
+![Input](images/input/tourist1.jpg)
+
+### Output Image
+![Output](images/output/tourist_clean1.jpg)
+
+### Mask Image
+![Mask](images/masks/mask1.jpg)
