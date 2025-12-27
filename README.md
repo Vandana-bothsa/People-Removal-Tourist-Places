@@ -71,6 +71,3 @@ extended to video processing and real-time applications.
 ## Author
 Vandana Bothsa  
 B.Tech – Computer Science and Engineering
-
-
-## Folder Structure
